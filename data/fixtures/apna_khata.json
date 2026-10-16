@@ -1,0 +1,60 @@
+{
+ "_about": "ILLUSTRATIVE land-record fixtures (source label: fixture).",
+ "plots": {
+  "Ramgarh|214": {
+   "owner_masked": "R*** L**",
+   "area_ha": 0.76,
+   "khata_no": "134"
+  },
+  "Laxmangarh|88": {
+   "owner_masked": "S*** D***",
+   "area_ha": 0.5,
+   "khata_no": "85"
+  },
+  "Kathumar|1043": {
+   "owner_masked": "M*** S***",
+   "area_ha": 1.01,
+   "khata_no": "345"
+  },
+  "Rajgarh|512": {
+   "owner_masked": "G*** R**",
+   "area_ha": 0.76,
+   "khata_no": "362"
+  },
+  "Naugaon|77": {
+   "owner_masked": "H*** S***",
+   "area_ha": 0.5,
+   "khata_no": "12"
+  },
+  "Malakhera|301": {
+   "owner_masked": "K*** D***",
+   "area_ha": 0.5,
+   "khata_no": "394"
+  },
+  "Thanagazi|66": {
+   "owner_masked": "B*** L**",
+   "area_ha": 1.0,
+   "khata_no": "64"
+  },
+  "Laxmangarh|140": {
+   "owner_masked": "J*** M***",
+   "area_ha": 0.76,
+   "khata_no": "227"
+  },
+  "Kishangarh Bas|905": {
+   "owner_masked": "P*** K***",
+   "area_ha": 0.5,
+   "khata_no": "122"
+  },
+  "Umren|45": {
+   "owner_masked": "A*** B***",
+   "area_ha": 0.5,
+   "khata_no": "100"
+  },
+  "Tijara|12": {
+   "owner_masked": "N*** K***",
+   "area_ha": 1.26,
+   "khata_no": "366"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "_about": "ILLUSTRATIVE daily weather used only when the live Open-Meteo call fails.",
+ "days": {
+  "Ramgarh|2026-03-12": {
+   "precip_mm": 21.4,
+   "weather_code": 96,
+   "wind_gust_kmh": 58,
+   "tmin_c": 14.1,
+   "tmax_c": 27.0
+  },
+  "Ramgarh|2026-03-11": {
+   "precip_mm": 0.0,
+   "weather_code": 2,
+   "wind_gust_kmh": 22,
+   "tmin_c": 15.2,
+   "tmax_c": 31.0
+  },
+  "Naugaon|2026-03-12": {
+   "precip_mm": 19.0,
+   "weather_code": 96,
+   "wind_gust_kmh": 55,
+   "tmin_c": 14.0,
+   "tmax_c": 27.5
+  },
+  "Kathumar|2026-01-14": {
+   "precip_mm": 0.0,
+   "weather_code": 0,
+   "wind_gust_kmh": 9,
+   "tmin_c": 0.4,
+   "tmax_c": 19.0
+  },
+  "Rajgarh|2026-02-20": {
+   "precip_mm": 6.2,
+   "weather_code": 63,
+   "wind_gust_kmh": 30,
+   "tmin_c": 9.0,
+   "tmax_c": 24.0
+  },
+  "Laxmangarh|2026-03-12": {
+   "precip_mm": 0.0,
+   "weather_code": 1,
+   "wind_gust_kmh": 14,
+   "tmin_c": 16.0,
+   "tmax_c": 32.0
+  }
+ }
+}

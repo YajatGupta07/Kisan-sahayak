@@ -1,0 +1,2753 @@
+{
+ "_about": "ILLUSTRATIVE yields for demo/eval. TY = mean(best 5 of last 7) x indemnity level. Replace with published CCE/threshold data and set source_url per row.",
+ "indemnity_level": {
+  "mustard": 0.7,
+  "wheat": 0.7,
+  "gram": 0.7,
+  "barley": 0.7
+ },
+ "seasons": {
+  "rabi_2021_22": {
+   "expected_publish": "2022-07-31",
+   "published_on": "2022-07-20"
+  },
+  "rabi_2022_23": {
+   "expected_publish": "2023-07-31",
+   "published_on": "2023-07-25"
+  },
+  "rabi_2023_24": {
+   "expected_publish": "2024-07-31",
+   "published_on": "2024-07-18"
+  },
+  "rabi_2024_25": {
+   "expected_publish": "2025-07-31",
+   "published_on": "2025-07-22"
+  },
+  "rabi_2025_26": {
+   "expected_publish": "2026-07-31",
+   "published_on": "2026-07-24"
+  }
+ },
+ "rows": [
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1298,
+    1390,
+    1270,
+    1331,
+    1473,
+    1457,
+    1376
+   ],
+   "actual_kg_ha": 1498,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1390,
+    1270,
+    1331,
+    1473,
+    1457,
+    1376,
+    1498
+   ],
+   "actual_kg_ha": 946,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1270,
+    1331,
+    1473,
+    1457,
+    1376,
+    1498,
+    946
+   ],
+   "actual_kg_ha": 1351,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1331,
+    1473,
+    1457,
+    1376,
+    1498,
+    946,
+    1351
+   ],
+   "actual_kg_ha": 1605,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1473,
+    1457,
+    1376,
+    1498,
+    946,
+    1351,
+    1605
+   ],
+   "actual_kg_ha": 1587,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3805,
+    4505,
+    4033,
+    3867,
+    3908,
+    4590,
+    4422
+   ],
+   "actual_kg_ha": 4642,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4505,
+    4033,
+    3867,
+    3908,
+    4590,
+    4422,
+    4642
+   ],
+   "actual_kg_ha": 4617,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4033,
+    3867,
+    3908,
+    4590,
+    4422,
+    4642,
+    4617
+   ],
+   "actual_kg_ha": 4487,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3867,
+    3908,
+    4590,
+    4422,
+    4642,
+    4617,
+    4487
+   ],
+   "actual_kg_ha": 4921,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3908,
+    4590,
+    4422,
+    4642,
+    4617,
+    4487,
+    4921
+   ],
+   "actual_kg_ha": 4426,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1241,
+    1204,
+    1274,
+    1218,
+    1260,
+    1112,
+    1167
+   ],
+   "actual_kg_ha": 1193,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1204,
+    1274,
+    1218,
+    1260,
+    1112,
+    1167,
+    1193
+   ],
+   "actual_kg_ha": 1152,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1274,
+    1218,
+    1260,
+    1112,
+    1167,
+    1193,
+    1152
+   ],
+   "actual_kg_ha": 1201,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1218,
+    1260,
+    1112,
+    1167,
+    1193,
+    1152,
+    1201
+   ],
+   "actual_kg_ha": 1179,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1260,
+    1112,
+    1167,
+    1193,
+    1152,
+    1201,
+    1179
+   ],
+   "actual_kg_ha": 1235,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3315,
+    3352,
+    3274,
+    3346,
+    3853,
+    3684,
+    3691
+   ],
+   "actual_kg_ha": 3406,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3352,
+    3274,
+    3346,
+    3853,
+    3684,
+    3691,
+    3406
+   ],
+   "actual_kg_ha": 3849,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3274,
+    3346,
+    3853,
+    3684,
+    3691,
+    3406,
+    3849
+   ],
+   "actual_kg_ha": 3464,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3346,
+    3853,
+    3684,
+    3691,
+    3406,
+    3849,
+    3464
+   ],
+   "actual_kg_ha": 3658,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RMG-01",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3853,
+    3684,
+    3691,
+    3406,
+    3849,
+    3464,
+    3658
+   ],
+   "actual_kg_ha": 4153,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1620,
+    1678,
+    1746,
+    1741,
+    1576,
+    1525,
+    1636
+   ],
+   "actual_kg_ha": 1635,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1678,
+    1746,
+    1741,
+    1576,
+    1525,
+    1636,
+    1635
+   ],
+   "actual_kg_ha": 1630,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1746,
+    1741,
+    1576,
+    1525,
+    1636,
+    1635,
+    1630
+   ],
+   "actual_kg_ha": 1901,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1741,
+    1576,
+    1525,
+    1636,
+    1635,
+    1630,
+    1901
+   ],
+   "actual_kg_ha": 1895,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1576,
+    1525,
+    1636,
+    1635,
+    1630,
+    1901,
+    1895
+   ],
+   "actual_kg_ha": 1712,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    4317,
+    4822,
+    4460,
+    4327,
+    4353,
+    4686,
+    4451
+   ],
+   "actual_kg_ha": 4797,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4822,
+    4460,
+    4327,
+    4353,
+    4686,
+    4451,
+    4797
+   ],
+   "actual_kg_ha": 5140,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4460,
+    4327,
+    4353,
+    4686,
+    4451,
+    4797,
+    5140
+   ],
+   "actual_kg_ha": 4709,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    4327,
+    4353,
+    4686,
+    4451,
+    4797,
+    5140,
+    4709
+   ],
+   "actual_kg_ha": 4577,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    4353,
+    4686,
+    4451,
+    4797,
+    5140,
+    4709,
+    4577
+   ],
+   "actual_kg_ha": 2959,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1058,
+    1059,
+    1084,
+    1217,
+    1269,
+    1191,
+    1115
+   ],
+   "actual_kg_ha": 1204,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1059,
+    1084,
+    1217,
+    1269,
+    1191,
+    1115,
+    1204
+   ],
+   "actual_kg_ha": 1368,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1084,
+    1217,
+    1269,
+    1191,
+    1115,
+    1204,
+    1368
+   ],
+   "actual_kg_ha": 1264,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1217,
+    1269,
+    1191,
+    1115,
+    1204,
+    1368,
+    1264
+   ],
+   "actual_kg_ha": 1387,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1269,
+    1191,
+    1115,
+    1204,
+    1368,
+    1264,
+    1387
+   ],
+   "actual_kg_ha": 1372,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3042,
+    3049,
+    2993,
+    2861,
+    3115,
+    2821,
+    3048
+   ],
+   "actual_kg_ha": 3088,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3049,
+    2993,
+    2861,
+    3115,
+    2821,
+    3048,
+    3088
+   ],
+   "actual_kg_ha": 3432,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    2993,
+    2861,
+    3115,
+    2821,
+    3048,
+    3088,
+    3432
+   ],
+   "actual_kg_ha": 3414,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    2861,
+    3115,
+    2821,
+    3048,
+    3088,
+    3432,
+    3414
+   ],
+   "actual_kg_ha": 3053,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-LXG-02",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3115,
+    2821,
+    3048,
+    3088,
+    3432,
+    3414,
+    3053
+   ],
+   "actual_kg_ha": 3234,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1549,
+    1552,
+    1400,
+    1514,
+    1520,
+    1398,
+    1596
+   ],
+   "actual_kg_ha": 1543,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1552,
+    1400,
+    1514,
+    1520,
+    1398,
+    1596,
+    1543
+   ],
+   "actual_kg_ha": 1631,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1400,
+    1514,
+    1520,
+    1398,
+    1596,
+    1543,
+    1631
+   ],
+   "actual_kg_ha": 1569,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1514,
+    1520,
+    1398,
+    1596,
+    1543,
+    1631,
+    1569
+   ],
+   "actual_kg_ha": 1416,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1520,
+    1398,
+    1596,
+    1543,
+    1631,
+    1569,
+    1416
+   ],
+   "actual_kg_ha": 1425,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    4083,
+    4085,
+    4089,
+    3724,
+    3565,
+    4246,
+    4342
+   ],
+   "actual_kg_ha": 3690,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4085,
+    4089,
+    3724,
+    3565,
+    4246,
+    4342,
+    3690
+   ],
+   "actual_kg_ha": 4049,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4089,
+    3724,
+    3565,
+    4246,
+    4342,
+    3690,
+    4049
+   ],
+   "actual_kg_ha": 3745,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3724,
+    3565,
+    4246,
+    4342,
+    3690,
+    4049,
+    3745
+   ],
+   "actual_kg_ha": 4351,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3565,
+    4246,
+    4342,
+    3690,
+    4049,
+    3745,
+    4351
+   ],
+   "actual_kg_ha": 4395,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1042,
+    1068,
+    1018,
+    1159,
+    1073,
+    1036,
+    1119
+   ],
+   "actual_kg_ha": 1172,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1068,
+    1018,
+    1159,
+    1073,
+    1036,
+    1119,
+    1172
+   ],
+   "actual_kg_ha": 1064,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1018,
+    1159,
+    1073,
+    1036,
+    1119,
+    1172,
+    1064
+   ],
+   "actual_kg_ha": 1099,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1159,
+    1073,
+    1036,
+    1119,
+    1172,
+    1064,
+    1099
+   ],
+   "actual_kg_ha": 1266,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1073,
+    1036,
+    1119,
+    1172,
+    1064,
+    1099,
+    1266
+   ],
+   "actual_kg_ha": 1198,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3262,
+    3035,
+    3133,
+    3240,
+    3441,
+    3229,
+    3253
+   ],
+   "actual_kg_ha": 3180,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3035,
+    3133,
+    3240,
+    3441,
+    3229,
+    3253,
+    3180
+   ],
+   "actual_kg_ha": 3603,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3133,
+    3240,
+    3441,
+    3229,
+    3253,
+    3180,
+    3603
+   ],
+   "actual_kg_ha": 3351,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3240,
+    3441,
+    3229,
+    3253,
+    3180,
+    3603,
+    3351
+   ],
+   "actual_kg_ha": 3866,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-RJG-03",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3441,
+    3229,
+    3253,
+    3180,
+    3603,
+    3351,
+    3866
+   ],
+   "actual_kg_ha": 3868,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1318,
+    1452,
+    1337,
+    1327,
+    1572,
+    1481,
+    1466
+   ],
+   "actual_kg_ha": 1572,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1452,
+    1337,
+    1327,
+    1572,
+    1481,
+    1466,
+    1572
+   ],
+   "actual_kg_ha": 1594,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1337,
+    1327,
+    1572,
+    1481,
+    1466,
+    1572,
+    1594
+   ],
+   "actual_kg_ha": 1422,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1327,
+    1572,
+    1481,
+    1466,
+    1572,
+    1594,
+    1422
+   ],
+   "actual_kg_ha": 1406,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1572,
+    1481,
+    1466,
+    1572,
+    1594,
+    1422,
+    1406
+   ],
+   "actual_kg_ha": 1522,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    4145,
+    4407,
+    4403,
+    4713,
+    3990,
+    4295,
+    4280
+   ],
+   "actual_kg_ha": 4787,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4407,
+    4403,
+    4713,
+    3990,
+    4295,
+    4280,
+    4787
+   ],
+   "actual_kg_ha": 4279,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4403,
+    4713,
+    3990,
+    4295,
+    4280,
+    4787,
+    4279
+   ],
+   "actual_kg_ha": 4266,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    4713,
+    3990,
+    4295,
+    4280,
+    4787,
+    4279,
+    4266
+   ],
+   "actual_kg_ha": 4542,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3990,
+    4295,
+    4280,
+    4787,
+    4279,
+    4266,
+    4542
+   ],
+   "actual_kg_ha": null,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1034,
+    1193,
+    1098,
+    1203,
+    1144,
+    1041,
+    1269
+   ],
+   "actual_kg_ha": 1243,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1193,
+    1098,
+    1203,
+    1144,
+    1041,
+    1269,
+    1243
+   ],
+   "actual_kg_ha": 1286,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1098,
+    1203,
+    1144,
+    1041,
+    1269,
+    1243,
+    1286
+   ],
+   "actual_kg_ha": 1288,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1203,
+    1144,
+    1041,
+    1269,
+    1243,
+    1286,
+    1288
+   ],
+   "actual_kg_ha": 1281,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1144,
+    1041,
+    1269,
+    1243,
+    1286,
+    1288,
+    1281
+   ],
+   "actual_kg_ha": 1128,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3100,
+    3256,
+    3058,
+    3305,
+    3752,
+    3291,
+    3684
+   ],
+   "actual_kg_ha": 3487,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3256,
+    3058,
+    3305,
+    3752,
+    3291,
+    3684,
+    3487
+   ],
+   "actual_kg_ha": 3497,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3058,
+    3305,
+    3752,
+    3291,
+    3684,
+    3487,
+    3497
+   ],
+   "actual_kg_ha": 3912,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3305,
+    3752,
+    3291,
+    3684,
+    3487,
+    3497,
+    3912
+   ],
+   "actual_kg_ha": 3976,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-THG-04",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3752,
+    3291,
+    3684,
+    3487,
+    3497,
+    3912,
+    3976
+   ],
+   "actual_kg_ha": 3691,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1519,
+    1581,
+    1820,
+    1707,
+    1711,
+    1798,
+    1576
+   ],
+   "actual_kg_ha": 1775,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1581,
+    1820,
+    1707,
+    1711,
+    1798,
+    1576,
+    1775
+   ],
+   "actual_kg_ha": 1763,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1820,
+    1707,
+    1711,
+    1798,
+    1576,
+    1775,
+    1763
+   ],
+   "actual_kg_ha": 1903,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1707,
+    1711,
+    1798,
+    1576,
+    1775,
+    1763,
+    1903
+   ],
+   "actual_kg_ha": 1671,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1711,
+    1798,
+    1576,
+    1775,
+    1763,
+    1903,
+    1671
+   ],
+   "actual_kg_ha": 1978,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3582,
+    3933,
+    4035,
+    3728,
+    3672,
+    4326,
+    3845
+   ],
+   "actual_kg_ha": 4167,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3933,
+    4035,
+    3728,
+    3672,
+    4326,
+    3845,
+    4167
+   ],
+   "actual_kg_ha": 4226,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4035,
+    3728,
+    3672,
+    4326,
+    3845,
+    4167,
+    4226
+   ],
+   "actual_kg_ha": 4098,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3728,
+    3672,
+    4326,
+    3845,
+    4167,
+    4226,
+    4098
+   ],
+   "actual_kg_ha": 4274,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3672,
+    4326,
+    3845,
+    4167,
+    4226,
+    4098,
+    4274
+   ],
+   "actual_kg_ha": 4261,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1195,
+    1338,
+    1228,
+    1281,
+    1366,
+    1280,
+    1297
+   ],
+   "actual_kg_ha": 1427,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1338,
+    1228,
+    1281,
+    1366,
+    1280,
+    1297,
+    1427
+   ],
+   "actual_kg_ha": 1254,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1228,
+    1281,
+    1366,
+    1280,
+    1297,
+    1427,
+    1254
+   ],
+   "actual_kg_ha": 1373,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1281,
+    1366,
+    1280,
+    1297,
+    1427,
+    1254,
+    1373
+   ],
+   "actual_kg_ha": 845,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1366,
+    1280,
+    1297,
+    1427,
+    1254,
+    1373,
+    845
+   ],
+   "actual_kg_ha": 1550,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    2792,
+    2851,
+    3283,
+    3283,
+    3314,
+    3029,
+    2925
+   ],
+   "actual_kg_ha": 3381,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    2851,
+    3283,
+    3283,
+    3314,
+    3029,
+    2925,
+    3381
+   ],
+   "actual_kg_ha": 3329,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3283,
+    3283,
+    3314,
+    3029,
+    2925,
+    3381,
+    3329
+   ],
+   "actual_kg_ha": 3301,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3283,
+    3314,
+    3029,
+    2925,
+    3381,
+    3329,
+    3301
+   ],
+   "actual_kg_ha": 3576,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-MKH-05",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3314,
+    3029,
+    2925,
+    3381,
+    3329,
+    3301,
+    3576
+   ],
+   "actual_kg_ha": 3389,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1454,
+    1325,
+    1440,
+    1532,
+    1318,
+    1325,
+    1335
+   ],
+   "actual_kg_ha": 1478,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1325,
+    1440,
+    1532,
+    1318,
+    1325,
+    1335,
+    1478
+   ],
+   "actual_kg_ha": 1409,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1440,
+    1532,
+    1318,
+    1325,
+    1335,
+    1478,
+    1409
+   ],
+   "actual_kg_ha": 1521,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1532,
+    1318,
+    1325,
+    1335,
+    1478,
+    1409,
+    1521
+   ],
+   "actual_kg_ha": 1569,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1318,
+    1325,
+    1335,
+    1478,
+    1409,
+    1521,
+    1569
+   ],
+   "actual_kg_ha": 1427,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    4180,
+    4421,
+    4837,
+    4831,
+    4190,
+    4536,
+    4442
+   ],
+   "actual_kg_ha": 4228,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4421,
+    4837,
+    4831,
+    4190,
+    4536,
+    4442,
+    4228
+   ],
+   "actual_kg_ha": 4995,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4837,
+    4831,
+    4190,
+    4536,
+    4442,
+    4228,
+    4995
+   ],
+   "actual_kg_ha": 4913,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    4831,
+    4190,
+    4536,
+    4442,
+    4228,
+    4995,
+    4913
+   ],
+   "actual_kg_ha": 2298,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    4190,
+    4536,
+    4442,
+    4228,
+    4995,
+    4913,
+    2298
+   ],
+   "actual_kg_ha": 5104,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1147,
+    1061,
+    1087,
+    1291,
+    1309,
+    1234,
+    1317
+   ],
+   "actual_kg_ha": 1266,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1061,
+    1087,
+    1291,
+    1309,
+    1234,
+    1317,
+    1266
+   ],
+   "actual_kg_ha": 1169,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1087,
+    1291,
+    1309,
+    1234,
+    1317,
+    1266,
+    1169
+   ],
+   "actual_kg_ha": 1174,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1291,
+    1309,
+    1234,
+    1317,
+    1266,
+    1169,
+    1174
+   ],
+   "actual_kg_ha": 1232,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1309,
+    1234,
+    1317,
+    1266,
+    1169,
+    1174,
+    1232
+   ],
+   "actual_kg_ha": 1395,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3790,
+    3855,
+    3396,
+    3458,
+    3384,
+    3919,
+    4034
+   ],
+   "actual_kg_ha": 3711,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3855,
+    3396,
+    3458,
+    3384,
+    3919,
+    4034,
+    3711
+   ],
+   "actual_kg_ha": 3909,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3396,
+    3458,
+    3384,
+    3919,
+    4034,
+    3711,
+    3909
+   ],
+   "actual_kg_ha": 3586,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3458,
+    3384,
+    3919,
+    4034,
+    3711,
+    3909,
+    3586
+   ],
+   "actual_kg_ha": 4222,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KBS-06",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3384,
+    3919,
+    4034,
+    3711,
+    3909,
+    3586,
+    4222
+   ],
+   "actual_kg_ha": 4209,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1834,
+    1877,
+    1594,
+    1863,
+    1736,
+    1970,
+    1941
+   ],
+   "actual_kg_ha": 1983,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1877,
+    1594,
+    1863,
+    1736,
+    1970,
+    1941,
+    1983
+   ],
+   "actual_kg_ha": 1981,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1594,
+    1863,
+    1736,
+    1970,
+    1941,
+    1983,
+    1981
+   ],
+   "actual_kg_ha": 1795,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1863,
+    1736,
+    1970,
+    1941,
+    1983,
+    1981,
+    1795
+   ],
+   "actual_kg_ha": 2009,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1736,
+    1970,
+    1941,
+    1983,
+    1981,
+    1795,
+    2009
+   ],
+   "actual_kg_ha": 1767,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    4962,
+    4416,
+    5021,
+    4731,
+    4627,
+    5148,
+    4640
+   ],
+   "actual_kg_ha": 4482,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4416,
+    5021,
+    4731,
+    4627,
+    5148,
+    4640,
+    4482
+   ],
+   "actual_kg_ha": 4693,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    5021,
+    4731,
+    4627,
+    5148,
+    4640,
+    4482,
+    4693
+   ],
+   "actual_kg_ha": 3021,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    4731,
+    4627,
+    5148,
+    4640,
+    4482,
+    4693,
+    3021
+   ],
+   "actual_kg_ha": 5464,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    4627,
+    5148,
+    4640,
+    4482,
+    4693,
+    3021,
+    5464
+   ],
+   "actual_kg_ha": 5619,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1120,
+    1078,
+    1218,
+    1130,
+    1232,
+    1056,
+    1263
+   ],
+   "actual_kg_ha": 1090,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1078,
+    1218,
+    1130,
+    1232,
+    1056,
+    1263,
+    1090
+   ],
+   "actual_kg_ha": 1285,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1218,
+    1130,
+    1232,
+    1056,
+    1263,
+    1090,
+    1285
+   ],
+   "actual_kg_ha": 1131,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1130,
+    1232,
+    1056,
+    1263,
+    1090,
+    1285,
+    1131
+   ],
+   "actual_kg_ha": 1104,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1232,
+    1056,
+    1263,
+    1090,
+    1285,
+    1131,
+    1104
+   ],
+   "actual_kg_ha": 1193,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3351,
+    3590,
+    3559,
+    3503,
+    3676,
+    3476,
+    3844
+   ],
+   "actual_kg_ha": 3353,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3590,
+    3559,
+    3503,
+    3676,
+    3476,
+    3844,
+    3353
+   ],
+   "actual_kg_ha": 4079,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3559,
+    3503,
+    3676,
+    3476,
+    3844,
+    3353,
+    4079
+   ],
+   "actual_kg_ha": 3823,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3503,
+    3676,
+    3476,
+    3844,
+    3353,
+    4079,
+    3823
+   ],
+   "actual_kg_ha": 3997,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-TJR-07",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3676,
+    3476,
+    3844,
+    3353,
+    4079,
+    3823,
+    3997
+   ],
+   "actual_kg_ha": 4051,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "mustard",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1570,
+    1489,
+    1700,
+    1605,
+    1616,
+    1812,
+    1785
+   ],
+   "actual_kg_ha": 1657,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "mustard",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1489,
+    1700,
+    1605,
+    1616,
+    1812,
+    1785,
+    1657
+   ],
+   "actual_kg_ha": 972,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "mustard",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1700,
+    1605,
+    1616,
+    1812,
+    1785,
+    1657,
+    972
+   ],
+   "actual_kg_ha": 1726,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "mustard",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1605,
+    1616,
+    1812,
+    1785,
+    1657,
+    972,
+    1726
+   ],
+   "actual_kg_ha": 1740,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "mustard",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1616,
+    1812,
+    1785,
+    1657,
+    972,
+    1726,
+    1740
+   ],
+   "actual_kg_ha": 893,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "wheat",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3808,
+    4253,
+    4087,
+    4307,
+    4118,
+    3902,
+    4141
+   ],
+   "actual_kg_ha": 3727,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "wheat",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    4253,
+    4087,
+    4307,
+    4118,
+    3902,
+    4141,
+    3727
+   ],
+   "actual_kg_ha": 4001,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "wheat",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    4087,
+    4307,
+    4118,
+    3902,
+    4141,
+    3727,
+    4001
+   ],
+   "actual_kg_ha": 4159,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "wheat",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    4307,
+    4118,
+    3902,
+    4141,
+    3727,
+    4001,
+    4159
+   ],
+   "actual_kg_ha": 4325,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "wheat",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    4118,
+    3902,
+    4141,
+    3727,
+    4001,
+    4159,
+    4325
+   ],
+   "actual_kg_ha": 4428,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "gram",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    1127,
+    1086,
+    1157,
+    1269,
+    1256,
+    1118,
+    1108
+   ],
+   "actual_kg_ha": 1224,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "gram",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    1086,
+    1157,
+    1269,
+    1256,
+    1118,
+    1108,
+    1224
+   ],
+   "actual_kg_ha": 1264,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "gram",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    1157,
+    1269,
+    1256,
+    1118,
+    1108,
+    1224,
+    1264
+   ],
+   "actual_kg_ha": 1202,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "gram",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    1269,
+    1256,
+    1118,
+    1108,
+    1224,
+    1264,
+    1202
+   ],
+   "actual_kg_ha": 1334,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "gram",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    1256,
+    1118,
+    1108,
+    1224,
+    1264,
+    1202,
+    1334
+   ],
+   "actual_kg_ha": 1329,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "barley",
+   "season": "rabi_2021_22",
+   "history_kg_ha": [
+    3248,
+    3262,
+    3172,
+    3359,
+    3557,
+    3861,
+    3332
+   ],
+   "actual_kg_ha": 3615,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "barley",
+   "season": "rabi_2022_23",
+   "history_kg_ha": [
+    3262,
+    3172,
+    3359,
+    3557,
+    3861,
+    3332,
+    3615
+   ],
+   "actual_kg_ha": 3808,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "barley",
+   "season": "rabi_2023_24",
+   "history_kg_ha": [
+    3172,
+    3359,
+    3557,
+    3861,
+    3332,
+    3615,
+    3808
+   ],
+   "actual_kg_ha": 3517,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "barley",
+   "season": "rabi_2024_25",
+   "history_kg_ha": [
+    3359,
+    3557,
+    3861,
+    3332,
+    3615,
+    3808,
+    3517
+   ],
+   "actual_kg_ha": 3929,
+   "source_url": null,
+   "illustrative": true
+  },
+  {
+   "iu_code": "ALW-KTM-08",
+   "crop": "barley",
+   "season": "rabi_2025_26",
+   "history_kg_ha": [
+    3557,
+    3861,
+    3332,
+    3615,
+    3808,
+    3517,
+    3929
+   ],
+   "actual_kg_ha": 3811,
+   "source_url": null,
+   "illustrative": true
+  }
+ ]
+}

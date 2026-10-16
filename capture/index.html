@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>खेत की फोटो — साक्षी</title>
+<style>
+  :root { --bg:#f6f4ec; --fg:#1d2a1a; --accent:#2f6b2a; --muted:#6b6b5e; --card:#fff; --warn:#a23a1f; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#151a13; --fg:#e9eee4; --accent:#7fc173; --muted:#a3a896; --card:#1f261c; --warn:#ff8a65; } }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, "Noto Sans Devanagari", sans-serif; background:var(--bg); color:var(--fg); }
+  main { max-width: 520px; margin: 0 auto; padding: 20px 16px 40px; }
+  h1 { font-size: 1.35rem; margin: 0 0 6px; }
+  p { color: var(--muted); line-height: 1.5; margin: 0 0 14px; }
+  .card { background: var(--card); border-radius: 14px; padding: 16px; margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  label.big { display:block; text-align:center; background: var(--accent); color:#fff; padding: 18px; border-radius: 12px;
+              font-size: 1.15rem; font-weight: 600; cursor: pointer; }
+  input[type=file] { display:none; }
+  #status { font-size: .95rem; min-height: 1.4em; }
+  .ok { color: var(--accent); } .err { color: var(--warn); }
+  img.preview { width: 100%; border-radius: 10px; margin-top: 10px; }
+  small { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>खेत की फोटो भेजें</h1>
+  <p>खेत में खड़े होकर फोटो लें। फोटो के साथ समय और आपकी जगह (लोकेशन) अपने-आप जुड़ जाएगी, ताकि बाद में सबूत रहे।</p>
+  <div class="card">
+    <div id="loc">📍 लोकेशन ली जा रही है…</div>
+  </div>
+  <label class="big" for="photo">📷 फोटो लें</label>
+  <input id="photo" type="file" accept="image/*" capture="environment">
+  <div class="card" style="margin-top:14px">
+    <div id="status"></div>
+    <div id="previews"></div>
+  </div>
+  <small>फोटो सिर्फ आपके बीमा केस के सबूत के लिए रखी जाती है।</small>
+</main>
+<script>
+  const token = location.pathname.split("/").filter(Boolean).pop();
+  let pos = null;
+  const locEl = document.getElementById("loc"), st = document.getElementById("status");
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      p => { pos = p.coords; locEl.textContent = `📍 लोकेशन मिल गई (±${Math.round(pos.accuracy)} मी)`; },
+      () => { locEl.innerHTML = '<span class="err">📍 लोकेशन नहीं मिली — फोन में लोकेशन चालू करें और पेज दोबारा खोलें।</span>'; },
+      { enableHighAccuracy: true, timeout: 20000, maximumAge: 0 });
+  } else { locEl.textContent = "📍 यह फोन लोकेशन नहीं देता"; }
+
+  document.getElementById("photo").addEventListener("change", async (e) => {
+    const f = e.target.files[0];
+    if (!f) return;
+    const fd = new FormData();
+    fd.append("photo", f);
+    if (pos) { fd.append("lat", pos.latitude); fd.append("lon", pos.longitude); fd.append("accuracy", pos.accuracy); }
+    fd.append("client_time", new Date().toISOString());
+    st.textContent = "भेज रहे हैं…"; st.className = "";
+    try {
+      const r = await fetch(`/capture/${token}`, { method: "POST", body: fd });
+      const j = await r.json();
+      st.textContent = j.message || (r.ok ? "फोटो मिल गई" : "कुछ गड़बड़ हुई");
+      st.className = j.valid ? "ok" : "err";
+      const img = document.createElement("img"); img.className = "preview"; img.src = URL.createObjectURL(f);
+      document.getElementById("previews").prepend(img);
+    } catch (err) { st.textContent = "नेटवर्क की दिक्कत — दोबारा कोशिश करें"; st.className = "err"; }
+    e.target.value = "";
+  });
+</script>
+</body>
+</html>

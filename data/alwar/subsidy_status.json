@@ -1,0 +1,5 @@
+{
+  "_about": "ILLUSTRATIVE premium-subsidy release status per season (state and central shares). Replace with figures from the PMFBY dashboard / state agriculture department.",
+  "rabi_2024_25": {"state_share_released": false, "central_share_released": true, "as_of": "2025-10-01", "illustrative": true},
+  "rabi_2025_26": {"state_share_released": true, "central_share_released": true, "as_of": "2026-08-15", "illustrative": true}
+}

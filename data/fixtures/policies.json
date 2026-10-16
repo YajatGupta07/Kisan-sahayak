@@ -1,0 +1,350 @@
+{
+ "_about": "ILLUSTRATIVE policy fixtures. No real farmer data. Day numbers are days after the loss report (localised) or after yield publication (widespread).",
+ "policies": [
+  {
+   "policy_no": "RJ25R000101",
+   "receipt_no": "RJ25R000101",
+   "loan_account": "31234567890",
+   "farmer_name_masked": "R*** L**",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "214"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Ramgarh",
+    "account_masked": "XXXXXXXX2824",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 45,
+    "payment": {
+     "mode": "paid",
+     "day": 24
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000102",
+   "receipt_no": "RJ25R000102",
+   "loan_account": null,
+   "farmer_name_masked": "S*** D***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "88"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Laxmangarh",
+    "account_masked": "XXXXXXXX1409",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {},
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000103",
+   "receipt_no": "RJ25R000103",
+   "loan_account": null,
+   "farmer_name_masked": "M*** S***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Kathumar",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "1043"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank of Baroda, Kathumar",
+    "account_masked": "XXXXXXXX5506",
+    "aadhaar_seeded": false,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "failed",
+     "code": "ACCOUNT_NOT_SEEDED",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000104",
+   "receipt_no": "RJ25R000104",
+   "loan_account": null,
+   "farmer_name_masked": "G*** R**",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Rajgarh",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "512"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Rajgarh",
+    "account_masked": "XXXXXXXX5012",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {},
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000105",
+   "receipt_no": "RJ25R000105",
+   "loan_account": null,
+   "farmer_name_masked": "H*** S***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Naugaon",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "77"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Naugaon",
+    "account_masked": "XXXXXXXX4657",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": null,
+    "survey_after_grievance_day": 3,
+    "assessment_day": 3,
+    "loss_pct": 35,
+    "payment": {
+     "mode": "paid",
+     "day": 21
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000106",
+   "receipt_no": "RJ25R000106",
+   "loan_account": "41234567890",
+   "farmer_name_masked": "K*** D***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Malakhera",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "301"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Malakhera",
+    "account_masked": "XXXXXXXX3286",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": true,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 45,
+    "payment": {
+     "mode": "paid",
+     "day": 24
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000107",
+   "receipt_no": "RJ25R000107",
+   "loan_account": null,
+   "farmer_name_masked": "B*** L**",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Thanagazi",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "66"
+   ],
+   "area_ha": 1.0,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Thanagazi",
+    "account_masked": "XXXXXXXX2679",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {},
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000108",
+   "receipt_no": "RJ25R000108",
+   "loan_account": null,
+   "farmer_name_masked": "J*** M***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "140"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Laxmangarh",
+    "account_masked": "XXXXXXXX9935",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": false,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "pending",
+     "code": "FARMER_NOT_IN_IU_LIST",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ24R000109",
+   "receipt_no": "RJ24R000109",
+   "loan_account": null,
+   "farmer_name_masked": "P*** K***",
+   "season": "rabi_2024_25",
+   "crop": "wheat",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "905"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 70000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Kishangarh Bas",
+    "account_masked": "XXXXXXXX2424",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "pending",
+     "code": "AWAITING_FUNDS",
+     "day": 25
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000110",
+   "receipt_no": "RJ25R000110",
+   "loan_account": null,
+   "farmer_name_masked": "A*** B***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Umren",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "45"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Umren",
+    "account_masked": "XXXXXXXX7912",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 3,
+    "assessment_day": 6,
+    "loss_pct": 60,
+    "payment": {
+     "mode": "paid",
+     "day": 25
+    }
+   },
+   "illustrative": true
+  },
+  {
+   "policy_no": "RJ25R000111",
+   "receipt_no": "RJ25R000111",
+   "loan_account": null,
+   "farmer_name_masked": "N*** K***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Tijara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "12"
+   ],
+   "area_ha": 1.26,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "State Bank of India, Tijara",
+    "account_masked": "XXXXXXXX1520",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 5,
+    "assessment_day": 8,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 27
+    }
+   },
+   "illustrative": true
+  }
+ ]
+}

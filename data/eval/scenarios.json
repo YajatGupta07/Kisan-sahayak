@@ -1,0 +1,3036 @@
+[
+ {
+  "category": "reporting",
+  "start": "2026-03-10T19:15:00",
+  "event_at": "2026-03-09T18:00:00",
+  "opening": "कल शाम 6 बजे खेत में पानी भर गया, मेरी सरसों की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "mustard",
+   "area_bigha": 3,
+   "receipt": "RJ25E000000",
+   "village": "Kishangarh Bas",
+   "lat": 27.82,
+   "lon": 76.73
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000000",
+   "receipt_no": "RJ25E000000",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "850"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kishangarh Bas",
+    "account_masked": "XXXXXXXX9779",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 0,
+  "id": "S01",
+  "phone": "+919700000001"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-11T09:15:00",
+  "event_at": "2026-03-10T22:00:00",
+  "opening": "कल रात बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000001",
+   "village": "Mojpur",
+   "lat": 27.305,
+   "lon": 76.905
+  },
+  "faults": {
+   "insurer_app": "error"
+  },
+  "policy": {
+   "policy_no": "RJ25E000001",
+   "receipt_no": "RJ25E000001",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Mojpur",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "48"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Mojpur",
+    "account_masked": "XXXXXXXX2408",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S02",
+  "phone": "+919700000002"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-12T11:15:00",
+  "event_at": "2026-03-10T18:00:00",
+  "opening": "परसों शाम ओले गिरे, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000002",
+   "village": "Tapukara",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {
+   "insurer_app": "timeout",
+   "helpline_14447": "no_answer"
+  },
+  "policy": {
+   "policy_no": "RJ25E000002",
+   "receipt_no": "RJ25E000002",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Tapukara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "444"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tapukara",
+    "account_masked": "XXXXXXXX1968",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S03",
+  "phone": "+919700000003"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-13T12:15:00",
+  "event_at": "2026-03-13T07:00:00",
+  "opening": "आज सुबह बिजली गिरने से आग लग गई, मेरी सरसों की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "mustard",
+   "area_bigha": 3,
+   "receipt": "RJ25E000003",
+   "village": "Mojpur",
+   "lat": 27.305,
+   "lon": 76.905
+  },
+  "faults": {
+   "insurer_app": "invalid_ref"
+  },
+  "policy": {
+   "policy_no": "RJ25E000003",
+   "receipt_no": "RJ25E000003",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Mojpur",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "600"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Mojpur",
+    "account_masked": "XXXXXXXX7499",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S04",
+  "phone": "+919700000004"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-14T20:15:00",
+  "event_at": "2026-03-13T13:00:00",
+  "opening": "kal dopahar बेमौसम बारिश से कटी हुई फसल भीग गई, मेरी सरसों की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "mustard",
+   "area_bigha": 1,
+   "receipt": "RJ25E000004",
+   "village": "Naugaon",
+   "lat": 27.617,
+   "lon": 76.88
+  },
+  "faults": {
+   "insurer_app": "error",
+   "helpline_14447": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000004",
+   "receipt_no": "RJ25E000004",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Naugaon",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "306"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Naugaon",
+    "account_masked": "XXXXXXXX7867",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S05",
+  "phone": "+919700000005"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-10T08:15:00",
+  "event_at": "2026-03-08T22:00:00",
+  "opening": "parson raat बिजली गिरने से आग लग गई, मेरी सरसों की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "mustard",
+   "area_bigha": 2,
+   "receipt": "RJ25E000005",
+   "village": "Rajgarh",
+   "lat": 27.236,
+   "lon": 76.623
+  },
+  "faults": {
+   "insurer_app": "error_once",
+   "helpline_14447": "error_once",
+   "insurer_office": "error_once",
+   "bank_branch": "error_once",
+   "csc": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000005",
+   "receipt_no": "RJ25E000005",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Rajgarh",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "195"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Rajgarh",
+    "account_masked": "XXXXXXXX2688",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S06",
+  "phone": "+919700000006"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-11T21:15:00",
+  "event_at": "2026-03-09T07:00:00",
+  "opening": "परसों सुबह ओले गिरे, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": "RJ25E000006",
+   "village": "Thanagazi",
+   "lat": 27.4,
+   "lon": 76.31
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000006",
+   "receipt_no": "RJ25E000006",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Thanagazi",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "587"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Thanagazi",
+    "account_masked": "XXXXXXXX1976",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 0,
+  "id": "S07",
+  "phone": "+919700000007"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-12T09:15:00",
+  "event_at": "2026-03-11T22:00:00",
+  "opening": "कल रात बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": "RJ25E000007",
+   "village": "Thanagazi",
+   "lat": 27.4,
+   "lon": 76.31
+  },
+  "faults": {
+   "insurer_app": "error"
+  },
+  "policy": {
+   "policy_no": "RJ25E000007",
+   "receipt_no": "RJ25E000007",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Thanagazi",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "486"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Thanagazi",
+    "account_masked": "XXXXXXXX8424",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S08",
+  "phone": "+919700000008"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-13T11:15:00",
+  "event_at": "2026-03-11T18:00:00",
+  "opening": "परसों शाम ओले गिरे, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000008",
+   "village": "Khairthal",
+   "lat": 27.8,
+   "lon": 76.64
+  },
+  "faults": {
+   "insurer_app": "timeout",
+   "helpline_14447": "no_answer"
+  },
+  "policy": {
+   "policy_no": "RJ25E000008",
+   "receipt_no": "RJ25E000008",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Khairthal",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "93"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Khairthal",
+    "account_masked": "XXXXXXXX5919",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S09",
+  "phone": "+919700000009"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-14T12:15:00",
+  "event_at": "2026-03-14T07:00:00",
+  "opening": "आज सुबह बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 2,
+   "receipt": "RJ25E000009",
+   "village": "Kherli",
+   "lat": 27.21,
+   "lon": 77.04
+  },
+  "faults": {
+   "insurer_app": "invalid_ref"
+  },
+  "policy": {
+   "policy_no": "RJ25E000009",
+   "receipt_no": "RJ25E000009",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Kherli",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "84"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kherli",
+    "account_masked": "XXXXXXXX2934",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S10",
+  "phone": "+919700000010"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-10T20:15:00",
+  "event_at": "2026-03-09T13:00:00",
+  "opening": "kal dopahar खेत में पानी भर गया, मेरी सरसों की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "mustard",
+   "area_bigha": 1,
+   "receipt": "RJ25E000010",
+   "village": "Tapukara",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {
+   "insurer_app": "error",
+   "helpline_14447": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000010",
+   "receipt_no": "RJ25E000010",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Tapukara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "50"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tapukara",
+    "account_masked": "XXXXXXXX2271",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S11",
+  "phone": "+919700000011"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-11T08:15:00",
+  "event_at": "2026-03-09T22:00:00",
+  "opening": "parson raat बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 2,
+   "receipt": "RJ25E000011",
+   "village": "Kishangarh Bas",
+   "lat": 27.82,
+   "lon": 76.73
+  },
+  "faults": {
+   "insurer_app": "error_once",
+   "helpline_14447": "error_once",
+   "insurer_office": "error_once",
+   "bank_branch": "error_once",
+   "csc": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000011",
+   "receipt_no": "RJ25E000011",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "603"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kishangarh Bas",
+    "account_masked": "XXXXXXXX8474",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S12",
+  "phone": "+919700000012"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-12T19:15:00",
+  "event_at": "2026-03-11T18:00:00",
+  "opening": "कल शाम 6 बजे खेत में पानी भर गया, मेरी सरसों की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "mustard",
+   "area_bigha": 2,
+   "receipt": "RJ25E000012",
+   "village": "Laxmangarh",
+   "lat": 27.372,
+   "lon": 76.866
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000012",
+   "receipt_no": "RJ25E000012",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "76"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Laxmangarh",
+    "account_masked": "XXXXXXXX1994",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 0,
+  "id": "S13",
+  "phone": "+919700000013"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-13T21:15:00",
+  "event_at": "2026-03-11T07:00:00",
+  "opening": "परसों सुबह बेमौसम बारिश से कटी हुई फसल भीग गई, मेरी गेहूं की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "wheat",
+   "area_bigha": 2,
+   "receipt": "RJ25E000013",
+   "village": "Umren",
+   "lat": 27.54,
+   "lon": 76.52
+  },
+  "faults": {
+   "insurer_app": "error"
+  },
+  "policy": {
+   "policy_no": "RJ25E000013",
+   "receipt_no": "RJ25E000013",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Umren",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "918"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Umren",
+    "account_masked": "XXXXXXXX6685",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S14",
+  "phone": "+919700000014"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-14T11:15:00",
+  "event_at": "2026-03-12T18:00:00",
+  "opening": "परसों शाम खेत में पानी भर गया, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000014",
+   "village": "Ramgarh",
+   "lat": 27.578,
+   "lon": 76.802
+  },
+  "faults": {
+   "insurer_app": "timeout",
+   "helpline_14447": "no_answer"
+  },
+  "policy": {
+   "policy_no": "RJ25E000014",
+   "receipt_no": "RJ25E000014",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "515"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Ramgarh",
+    "account_masked": "XXXXXXXX1965",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S15",
+  "phone": "+919700000015"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-10T12:15:00",
+  "event_at": "2026-03-10T07:00:00",
+  "opening": "आज सुबह ओले गिरे, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": "RJ25E000015",
+   "village": "Thanagazi",
+   "lat": 27.4,
+   "lon": 76.31
+  },
+  "faults": {
+   "insurer_app": "invalid_ref"
+  },
+  "policy": {
+   "policy_no": "RJ25E000015",
+   "receipt_no": "RJ25E000015",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Thanagazi",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "410"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Thanagazi",
+    "account_masked": "XXXXXXXX9134",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S16",
+  "phone": "+919700000016"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-11T20:15:00",
+  "event_at": "2026-03-10T13:00:00",
+  "opening": "kal dopahar खेत में पानी भर गया, मेरी सरसों की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "mustard",
+   "area_bigha": 2,
+   "receipt": "RJ25E000016",
+   "village": "Laxmangarh",
+   "lat": 27.372,
+   "lon": 76.866
+  },
+  "faults": {
+   "insurer_app": "error",
+   "helpline_14447": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000016",
+   "receipt_no": "RJ25E000016",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "914"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Laxmangarh",
+    "account_masked": "XXXXXXXX3243",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S17",
+  "phone": "+919700000017"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-12T08:15:00",
+  "event_at": "2026-03-10T22:00:00",
+  "opening": "parson raat बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 2,
+   "receipt": "RJ25E000017",
+   "village": "Tapukara",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {
+   "insurer_app": "error_once",
+   "helpline_14447": "error_once",
+   "insurer_office": "error_once",
+   "bank_branch": "error_once",
+   "csc": "error_once"
+  },
+  "policy": {
+   "policy_no": "RJ25E000017",
+   "receipt_no": "RJ25E000017",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Tapukara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "915"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tapukara",
+    "account_masked": "XXXXXXXX7233",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S18",
+  "phone": "+919700000018"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-13T19:15:00",
+  "event_at": "2026-03-12T18:00:00",
+  "opening": "कल शाम 6 बजे ओले गिरे, मेरी सरसों की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "mustard",
+   "area_bigha": 1,
+   "receipt": "RJ25E000018",
+   "village": "Pratapgarh",
+   "lat": 27.335,
+   "lon": 76.222
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000018",
+   "receipt_no": "RJ25E000018",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Pratapgarh",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "684"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Pratapgarh",
+    "account_masked": "XXXXXXXX4822",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 0,
+  "id": "S19",
+  "phone": "+919700000019"
+ },
+ {
+  "category": "reporting",
+  "start": "2026-03-14T09:15:00",
+  "event_at": "2026-03-13T22:00:00",
+  "opening": "कल रात बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000019",
+   "village": "Ramgarh",
+   "lat": 27.578,
+   "lon": 76.802
+  },
+  "faults": {
+   "insurer_app": "error"
+  },
+  "policy": {
+   "policy_no": "RJ25E000019",
+   "receipt_no": "RJ25E000019",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "14"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Ramgarh",
+    "account_masked": "XXXXXXXX3386",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S20",
+  "phone": "+919700000020"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-10T10:00:00",
+  "opening": "कल कीट/माहू लग गया, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "pest",
+   "crop": "wheat",
+   "receipt": "RJ23W000000",
+   "village": "Tijara",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000000",
+   "receipt_no": "RJ23W000000",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "wheat",
+   "village": "Tijara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "889"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tijara",
+    "account_masked": "XXXXXXXX9445",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 5994,
+   "outcome": "CLOSED_PAID",
+   "figures": {
+    "actual": 3021,
+    "threshold": 3393
+   }
+  },
+  "injected": 0,
+  "id": "S21",
+  "phone": "+919700000021"
+ },
+ {
+  "category": "payability",
+  "start": "2025-01-11T10:00:00",
+  "opening": "कल बेमौसम बारिश हुई, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "wheat",
+   "receipt": "RJ24W000001",
+   "village": "Naugaon",
+   "lat": 27.617,
+   "lon": 76.88
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ24W000001",
+   "receipt_no": "RJ24W000001",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2024_25",
+   "crop": "wheat",
+   "village": "Naugaon",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "413"
+   ],
+   "area_ha": 1.26,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Naugaon",
+    "account_masked": "XXXXXXXX2696",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 4921,
+    "threshold": 3186
+   }
+  },
+  "injected": 0,
+  "id": "S22",
+  "phone": "+919700000022"
+ },
+ {
+  "category": "payability",
+  "start": "2025-01-12T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी चना खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "gram",
+   "receipt": "RJ24W000002",
+   "village": "Kherli",
+   "lat": 27.21,
+   "lon": 77.04
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ24W000002",
+   "receipt_no": "RJ24W000002",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2024_25",
+   "crop": "gram",
+   "village": "Kherli",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "78"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 52000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kherli",
+    "account_masked": "XXXXXXXX4420",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1334,
+    "threshold": 870
+   }
+  },
+  "injected": 0,
+  "id": "S23",
+  "phone": "+919700000023"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-13T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "wheat",
+   "receipt": "RJ23W000003",
+   "village": "Tijara",
+   "lat": 27.3,
+   "lon": 77.02
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000003",
+   "receipt_no": "RJ23W000003",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "wheat",
+   "village": "Tijara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "10"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tijara",
+    "account_masked": "XXXXXXXX3478",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 3943,
+   "outcome": "CLOSED_PAID",
+   "figures": {
+    "actual": 3021,
+    "threshold": 3393
+   }
+  },
+  "injected": 0,
+  "id": "S24",
+  "phone": "+919700000024"
+ },
+ {
+  "category": "payability",
+  "start": "2022-01-14T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "wheat",
+   "receipt": "RJ21W000004",
+   "village": "Mojpur",
+   "lat": 27.305,
+   "lon": 76.905
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ21W000004",
+   "receipt_no": "RJ21W000004",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2021_22",
+   "crop": "wheat",
+   "village": "Mojpur",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "638"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Mojpur",
+    "account_masked": "XXXXXXXX7164",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 4797,
+    "threshold": 3188
+   }
+  },
+  "injected": 0,
+  "id": "S25",
+  "phone": "+919700000025"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-15T10:00:00",
+  "opening": "कल कीट/माहू लग गया, पूरे गांव में सबकी चना खराब हो गई",
+  "truth": {
+   "event_type": "pest",
+   "crop": "gram",
+   "receipt": "RJ23W000005",
+   "village": "Rajgarh",
+   "lat": 27.236,
+   "lon": 76.623
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000005",
+   "receipt_no": "RJ23W000005",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "gram",
+   "village": "Rajgarh",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "382"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 52000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Rajgarh",
+    "account_masked": "XXXXXXXX8768",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1099,
+    "threshold": 782
+   }
+  },
+  "injected": 0,
+  "id": "S26",
+  "phone": "+919700000026"
+ },
+ {
+  "category": "payability",
+  "start": "2025-01-16T10:00:00",
+  "opening": "कल बेमौसम बारिश हुई, पूरे गांव में सबकी चना खराब हो गई",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "gram",
+   "receipt": "RJ24W000006",
+   "village": "Malakhera",
+   "lat": 27.305,
+   "lon": 76.905
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ24W000006",
+   "receipt_no": "RJ24W000006",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2024_25",
+   "crop": "gram",
+   "village": "Malakhera",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "329"
+   ],
+   "area_ha": 1.26,
+   "sum_insured_per_ha": 52000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Malakhera",
+    "account_masked": "XXXXXXXX2407",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 6881,
+   "outcome": "CLOSED_PAID",
+   "figures": {
+    "actual": 845,
+    "threshold": 944
+   }
+  },
+  "injected": 0,
+  "id": "S27",
+  "phone": "+919700000027"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-17T10:00:00",
+  "opening": "कल बेमौसम बारिश हुई, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "mustard",
+   "receipt": "RJ23W000007",
+   "village": "Rajgarh",
+   "lat": 27.236,
+   "lon": 76.623
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000007",
+   "receipt_no": "RJ23W000007",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "mustard",
+   "village": "Rajgarh",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "858"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Rajgarh",
+    "account_masked": "XXXXXXXX3645",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1569,
+    "threshold": 1093
+   }
+  },
+  "injected": 0,
+  "id": "S28",
+  "phone": "+919700000028"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-18T10:00:00",
+  "opening": "कल कीट/माहू लग गया, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "pest",
+   "crop": "mustard",
+   "receipt": "RJ23W000008",
+   "village": "Ramgarh",
+   "lat": 27.578,
+   "lon": 76.802
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000008",
+   "receipt_no": "RJ23W000008",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "mustard",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "566"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Ramgarh",
+    "account_masked": "XXXXXXXX1443",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1351,
+    "threshold": 999
+   }
+  },
+  "injected": 0,
+  "id": "S29",
+  "phone": "+919700000029"
+ },
+ {
+  "category": "payability",
+  "start": "2024-01-19T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "wheat",
+   "receipt": "RJ23W000009",
+   "village": "Tijara",
+   "lat": 27.54,
+   "lon": 76.52
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000009",
+   "receipt_no": "RJ23W000009",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "wheat",
+   "village": "Tijara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "374"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tijara",
+    "account_masked": "XXXXXXXX4650",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 7966,
+   "outcome": "CLOSED_PAID",
+   "figures": {
+    "actual": 3021,
+    "threshold": 3393
+   }
+  },
+  "injected": 0,
+  "id": "S30",
+  "phone": "+919700000030"
+ },
+ {
+  "category": "payability",
+  "start": "2023-01-20T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी चना खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "gram",
+   "receipt": "RJ22W000010",
+   "village": "Kishangarh Bas",
+   "lat": 27.82,
+   "lon": 76.73
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000010",
+   "receipt_no": "RJ22W000010",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "gram",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "847"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 52000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kishangarh Bas",
+    "account_masked": "XXXXXXXX7564",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1169,
+    "threshold": 898
+   }
+  },
+  "injected": 0,
+  "id": "S31",
+  "phone": "+919700000031"
+ },
+ {
+  "category": "payability",
+  "start": "2025-01-21T10:00:00",
+  "opening": "कल कीट/माहू लग गया, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "pest",
+   "crop": "mustard",
+   "receipt": "RJ24W000011",
+   "village": "Pratapgarh",
+   "lat": 27.335,
+   "lon": 76.222
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ24W000011",
+   "receipt_no": "RJ24W000011",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2024_25",
+   "crop": "mustard",
+   "village": "Pratapgarh",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "39"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Pratapgarh",
+    "account_masked": "XXXXXXXX1457",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1406,
+    "threshold": 1076
+   }
+  },
+  "injected": 0,
+  "id": "S32",
+  "phone": "+919700000032"
+ },
+ {
+  "category": "payability",
+  "start": "2023-01-22T10:00:00",
+  "opening": "कल बेमौसम बारिश हुई, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "mustard",
+   "receipt": "RJ22W000012",
+   "village": "Kathumar",
+   "lat": 27.467,
+   "lon": 76.565
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000012",
+   "receipt_no": "RJ22W000012",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "mustard",
+   "village": "Kathumar",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "837"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kathumar",
+    "account_masked": "XXXXXXXX6726",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 11122,
+   "outcome": "CLOSED_PAID",
+   "figures": {
+    "actual": 972,
+    "threshold": 1200
+   }
+  },
+  "injected": 0,
+  "id": "S33",
+  "phone": "+919700000033"
+ },
+ {
+  "category": "payability",
+  "start": "2023-01-23T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "mustard",
+   "receipt": "RJ22W000013",
+   "village": "Khairthal",
+   "lat": 27.8,
+   "lon": 76.64
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000013",
+   "receipt_no": "RJ22W000013",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "mustard",
+   "village": "Khairthal",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "491"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Khairthal",
+    "account_masked": "XXXXXXXX4222",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1409,
+    "threshold": 995
+   }
+  },
+  "injected": 0,
+  "id": "S34",
+  "phone": "+919700000034"
+ },
+ {
+  "category": "payability",
+  "start": "2025-01-24T10:00:00",
+  "opening": "कल बेमौसम बारिश हुई, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "unseasonal_rain",
+   "crop": "mustard",
+   "receipt": "RJ24W000014",
+   "village": "Kishangarh Bas",
+   "lat": 27.82,
+   "lon": 76.73
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ24W000014",
+   "receipt_no": "RJ24W000014",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2024_25",
+   "crop": "mustard",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "941"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kishangarh Bas",
+    "account_masked": "XXXXXXXX6636",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": false,
+   "amount": 0,
+   "outcome": "CLOSED_NOT_PAYABLE",
+   "figures": {
+    "actual": 1569,
+    "threshold": 1018
+   }
+  },
+  "injected": 0,
+  "id": "S35",
+  "phone": "+919700000035"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-10T20:15:00",
+  "event_at": "2026-03-09T13:00:00",
+  "opening": "kal dopahar खेत में पानी भर गया, मेरी चना की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "gram",
+   "area_bigha": 3,
+   "receipt": "RJ25E000100",
+   "village": "Laxmangarh",
+   "lat": 27.372,
+   "lon": 76.866
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000100",
+   "receipt_no": "RJ25E000100",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "920"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Laxmangarh",
+    "account_masked": "XXXXXXXX3924",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": false,
+   "outcome": "BLOCKED",
+   "blocker_contains": "differs"
+  },
+  "injected": 1,
+  "id": "S36",
+  "phone": "+919700000036"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-11T08:15:00",
+  "event_at": "2026-03-09T22:00:00",
+  "opening": "parson raat ओले गिरे, मेरी जौ की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "barley",
+   "area_bigha": 3,
+   "receipt": "RJ25E000101",
+   "village": "Tapukara",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000101",
+   "receipt_no": "RJ25E000101",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Tapukara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "421"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tapukara",
+    "account_masked": "XXXXXXXX2391",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": false,
+   "outcome": "BLOCKED",
+   "blocker_contains": "differs"
+  },
+  "injected": 1,
+  "id": "S37",
+  "phone": "+919700000037"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-12T19:15:00",
+  "event_at": "2026-03-11T18:00:00",
+  "opening": "कल शाम 6 बजे ओले गिरे, मेरी चना की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "gram",
+   "area_bigha": 1,
+   "receipt": "RJ25E000102",
+   "village": "Tehla",
+   "lat": 27.205,
+   "lon": 76.48
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000102",
+   "receipt_no": "RJ25E000102",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Tehla",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "936"
+   ],
+   "area_ha": 0.5,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tehla",
+    "account_masked": "XXXXXXXX8624",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": false,
+   "outcome": "BLOCKED",
+   "blocker_contains": "differs"
+  },
+  "injected": 1,
+  "id": "S38",
+  "phone": "+919700000038"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-13T09:15:00",
+  "event_at": "2026-03-12T22:00:00",
+  "opening": "कल रात बिजली गिरने से आग लग गई, मेरी जौ की फसल खराब हो गई, 2 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "barley",
+   "area_bigha": 2,
+   "receipt": "RJ25E000103",
+   "village": "Rajgarh",
+   "lat": 27.236,
+   "lon": 76.623
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000103",
+   "receipt_no": "RJ25E000103",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Rajgarh",
+   "iu_code": "ALW-RJG-03",
+   "khasra": [
+    "571"
+   ],
+   "area_ha": 0.51,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Rajgarh",
+    "account_masked": "XXXXXXXX3146",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": false,
+   "outcome": "BLOCKED",
+   "blocker_contains": "differs"
+  },
+  "injected": 1,
+  "id": "S39",
+  "phone": "+919700000039"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-14T11:15:00",
+  "event_at": "2026-03-12T18:00:00",
+  "opening": "परसों शाम बिजली गिरने से आग लग गई, मेरी चना की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "gram",
+   "area_bigha": 3,
+   "receipt": "RJ25E000104",
+   "village": "Ramgarh",
+   "lat": 27.578,
+   "lon": 76.802
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000104",
+   "receipt_no": "RJ25E000104",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "777"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Ramgarh",
+    "account_masked": "XXXXXXXX3281",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": false,
+   "outcome": "BLOCKED",
+   "blocker_contains": "differs"
+  },
+  "injected": 1,
+  "id": "S40",
+  "phone": "+919700000040"
+ },
+ {
+  "category": "policy_data",
+  "start": "2023-01-10T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "mustard",
+   "receipt": "RJ22W000015",
+   "village": "Ramgarh",
+   "lat": 28.06,
+   "lon": 76.8
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000015",
+   "receipt_no": "RJ22W000015",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "mustard",
+   "village": "Ramgarh",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "309"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Ramgarh",
+    "account_masked": "XXXXXXXX9211",
+    "aadhaar_seeded": false,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "failed",
+     "code": "ACCOUNT_NOT_SEEDED",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 3557,
+   "outcome": "BLOCKED",
+   "figures": {
+    "actual": 946,
+    "threshold": 1007
+   },
+   "blocker_contains": "seeded"
+  },
+  "injected": 1,
+  "id": "S41",
+  "phone": "+919700000041"
+ },
+ {
+  "category": "policy_data",
+  "start": "2024-01-13T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी गेहूं खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "wheat",
+   "receipt": "RJ23W000018",
+   "village": "Tijara",
+   "lat": 27.335,
+   "lon": 76.222
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ23W000018",
+   "receipt_no": "RJ23W000018",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2023_24",
+   "crop": "wheat",
+   "village": "Tijara",
+   "iu_code": "ALW-TJR-07",
+   "khasra": [
+    "72"
+   ],
+   "area_ha": 1.26,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Tijara",
+    "account_masked": "XXXXXXXX6796",
+    "aadhaar_seeded": false,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "failed",
+     "code": "ACCOUNT_NOT_SEEDED",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 9937,
+   "outcome": "BLOCKED",
+   "figures": {
+    "actual": 3021,
+    "threshold": 3393
+   },
+   "blocker_contains": "seeded"
+  },
+  "injected": 1,
+  "id": "S42",
+  "phone": "+919700000042"
+ },
+ {
+  "category": "policy_data",
+  "start": "2023-01-16T10:00:00",
+  "opening": "कल कीट/माहू लग गया, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "pest",
+   "crop": "mustard",
+   "receipt": "RJ22W000021",
+   "village": "Kathumar",
+   "lat": 27.3,
+   "lon": 77.02
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000021",
+   "receipt_no": "RJ22W000021",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "mustard",
+   "village": "Kathumar",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "532"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kathumar",
+    "account_masked": "XXXXXXXX1306",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": false,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "pending",
+     "code": "FARMER_NOT_IN_IU_LIST",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 8369,
+   "outcome": "BLOCKED",
+   "figures": {
+    "actual": 972,
+    "threshold": 1200
+   },
+   "blocker_contains": "mapped"
+  },
+  "injected": 1,
+  "id": "S43",
+  "phone": "+919700000043"
+ },
+ {
+  "category": "policy_data",
+  "start": "2023-01-19T10:00:00",
+  "opening": "कल पाला पड़ा, पूरे गांव में सबकी सरसों खराब हो गई",
+  "truth": {
+   "event_type": "frost",
+   "crop": "mustard",
+   "receipt": "RJ22W000024",
+   "village": "Kathumar",
+   "lat": 27.3,
+   "lon": 77.02
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ22W000024",
+   "receipt_no": "RJ22W000024",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2022_23",
+   "crop": "mustard",
+   "village": "Kathumar",
+   "iu_code": "ALW-KTM-08",
+   "khasra": [
+    "494"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kathumar",
+    "account_masked": "XXXXXXXX2971",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": false,
+   "otp_required": false,
+   "claim_timeline": {
+    "payment": {
+     "mode": "pending",
+     "code": "FARMER_NOT_IN_IU_LIST",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "none",
+  "advance_days": 260,
+  "expect": {
+   "reported": false,
+   "payable": true,
+   "amount": 8369,
+   "outcome": "BLOCKED",
+   "figures": {
+    "actual": 972,
+    "threshold": 1200
+   },
+   "blocker_contains": "mapped"
+  },
+  "injected": 1,
+  "id": "S44",
+  "phone": "+919700000044"
+ },
+ {
+  "category": "policy_data",
+  "start": "2026-03-14T12:15:00",
+  "event_at": "2026-03-14T07:00:00",
+  "opening": "आज सुबह बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": null,
+   "village": "Naugaon",
+   "lat": 27.617,
+   "lon": 76.88,
+   "loan": "51244051092"
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000129",
+   "receipt_no": "RJ25E000129",
+   "loan_account": "51244051092",
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Naugaon",
+   "iu_code": "ALW-RMG-01",
+   "khasra": [
+    "504"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Naugaon",
+    "account_masked": "XXXXXXXX2738",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": true,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S45",
+  "phone": "+919700000045"
+ },
+ {
+  "category": "photo_identifier",
+  "start": "2026-03-10T11:15:00",
+  "event_at": "2026-03-08T18:00:00",
+  "opening": "परसों शाम ओले गिरे, मेरी गेहूं की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "hail",
+   "crop": "wheat",
+   "area_bigha": 1,
+   "receipt": "RJ25E000140",
+   "village": "Thanagazi",
+   "lat": 27.4,
+   "lon": 76.31
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000140",
+   "receipt_no": "RJ25E000140",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Thanagazi",
+   "iu_code": "ALW-THG-04",
+   "khasra": [
+    "585"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Thanagazi",
+    "account_masked": "XXXXXXXX1456",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 40,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "dark_then_good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S46",
+  "phone": "+919700000046"
+ },
+ {
+  "category": "photo_identifier",
+  "start": "2026-03-11T12:15:00",
+  "event_at": "2026-03-11T07:00:00",
+  "opening": "आज सुबह खेत में पानी भर गया, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": "RJ25E000141",
+   "village": "Laxmangarh",
+   "lat": 27.372,
+   "lon": 76.866
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000141",
+   "receipt_no": "RJ25E000141",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Laxmangarh",
+   "iu_code": "ALW-LXG-02",
+   "khasra": [
+    "534"
+   ],
+   "area_ha": 1.01,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Laxmangarh",
+    "account_masked": "XXXXXXXX4267",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "forwarded_then_good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S47",
+  "phone": "+919700000047"
+ },
+ {
+  "category": "photo_identifier",
+  "start": "2026-03-12T20:15:00",
+  "event_at": "2026-03-11T13:00:00",
+  "opening": "kal dopahar बिजली गिरने से आग लग गई, मेरी गेहूं की फसल खराब हो गई, 3 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "wheat",
+   "area_bigha": 3,
+   "receipt": "RJ25E000142",
+   "village": "Malakhera",
+   "lat": 27.467,
+   "lon": 76.565
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000142",
+   "receipt_no": "RJ25E000142",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "wheat",
+   "village": "Malakhera",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "974"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 72000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Malakhera",
+    "account_masked": "XXXXXXXX5057",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 55,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "noexif_then_location",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S48",
+  "phone": "+919700000048"
+ },
+ {
+  "category": "photo_identifier",
+  "start": "2026-03-13T08:15:00",
+  "event_at": "2026-03-11T22:00:00",
+  "opening": "parson raat खेत में पानी भर गया, मेरी सरसों की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "inundation",
+   "crop": "mustard",
+   "area_bigha": 1,
+   "receipt": "RJ25E000143",
+   "village": "Malakhera",
+   "lat": 27.467,
+   "lon": 76.565,
+   "wrong_receipt_first": true
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000143",
+   "receipt_no": "RJ25E000143",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Malakhera",
+   "iu_code": "ALW-MKH-05",
+   "khasra": [
+    "411"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Malakhera",
+    "account_masked": "XXXXXXXX8243",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S49",
+  "phone": "+919700000049"
+ },
+ {
+  "category": "photo_identifier",
+  "start": "2026-03-14T19:15:00",
+  "event_at": "2026-03-13T18:00:00",
+  "opening": "कल शाम 6 बजे बिजली गिरने से आग लग गई, मेरी सरसों की फसल खराब हो गई, 1 बीघा में नुकसान",
+  "truth": {
+   "event_type": "natural_fire",
+   "crop": "mustard",
+   "area_bigha": 1,
+   "receipt": "RJ25E000144",
+   "village": "Kishangarh Bas",
+   "lat": 27.82,
+   "lon": 76.73
+  },
+  "faults": {},
+  "policy": {
+   "policy_no": "RJ25E000144",
+   "receipt_no": "RJ25E000144",
+   "loan_account": null,
+   "farmer_name_masked": "E*** F***",
+   "season": "rabi_2025_26",
+   "crop": "mustard",
+   "village": "Kishangarh Bas",
+   "iu_code": "ALW-KBS-06",
+   "khasra": [
+    "227"
+   ],
+   "area_ha": 0.76,
+   "sum_insured_per_ha": 58000,
+   "insurer": "Season insurer (illustrative)",
+   "bank": {
+    "name": "Bank, Kishangarh Bas",
+    "account_masked": "XXXXXXXX5960",
+    "aadhaar_seeded": true,
+    "npci_mapped": true
+   },
+   "mapped_to_iu": true,
+   "otp_required": false,
+   "claim_timeline": {
+    "survey_day": 4,
+    "assessment_day": 7,
+    "loss_pct": 30,
+    "payment": {
+     "mode": "paid",
+     "day": 20
+    }
+   },
+   "illustrative": true
+  },
+  "photos": "far_then_good",
+  "advance_days": 45,
+  "expect": {
+   "reported": true,
+   "outcome": "CLOSED_PAID"
+  },
+  "injected": 1,
+  "id": "S50",
+  "phone": "+919700000050"
+ }
+]

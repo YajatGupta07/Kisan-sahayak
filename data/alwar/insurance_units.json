@@ -1,0 +1,30 @@
+{
+  "_about": "Insurance units (IU) for the Alwar pilot. IU codes are ILLUSTRATIVE (not official). Village coordinates are approximate centroids for the photo-distance check. Replace with the official IU list from the season's PMFBY notification before any real use.",
+  "illustrative": true,
+  "units": [
+    {"iu_code": "ALW-RMG-01", "patwar_circle": "Ramgarh", "tehsil": "Ramgarh",
+     "villages": [{"name": "Ramgarh", "name_hi": "रामगढ़", "lat": 27.578, "lon": 76.802},
+                  {"name": "Naugaon", "name_hi": "नौगांव", "lat": 27.617, "lon": 76.880}]},
+    {"iu_code": "ALW-LXG-02", "patwar_circle": "Laxmangarh", "tehsil": "Laxmangarh",
+     "villages": [{"name": "Laxmangarh", "name_hi": "लक्ष्मणगढ़", "lat": 27.372, "lon": 76.866},
+                  {"name": "Mojpur", "name_hi": "मौजपुर", "lat": 27.305, "lon": 76.905}]},
+    {"iu_code": "ALW-RJG-03", "patwar_circle": "Rajgarh", "tehsil": "Rajgarh",
+     "villages": [{"name": "Rajgarh", "name_hi": "राजगढ़", "lat": 27.236, "lon": 76.623},
+                  {"name": "Tehla", "name_hi": "टहला", "lat": 27.205, "lon": 76.480}]},
+    {"iu_code": "ALW-THG-04", "patwar_circle": "Thanagazi", "tehsil": "Thanagazi",
+     "villages": [{"name": "Thanagazi", "name_hi": "थानागाजी", "lat": 27.400, "lon": 76.310},
+                  {"name": "Pratapgarh", "name_hi": "प्रतापगढ़", "lat": 27.335, "lon": 76.222}]},
+    {"iu_code": "ALW-MKH-05", "patwar_circle": "Malakhera", "tehsil": "Malakhera",
+     "villages": [{"name": "Malakhera", "name_hi": "मालाखेड़ा", "lat": 27.467, "lon": 76.565},
+                  {"name": "Umren", "name_hi": "उमरैण", "lat": 27.540, "lon": 76.520}]},
+    {"iu_code": "ALW-KBS-06", "patwar_circle": "Kishangarh Bas", "tehsil": "Kishangarh Bas",
+     "villages": [{"name": "Kishangarh Bas", "name_hi": "किशनगढ़ बास", "lat": 27.820, "lon": 76.730},
+                  {"name": "Khairthal", "name_hi": "खैरथल", "lat": 27.800, "lon": 76.640}]},
+    {"iu_code": "ALW-TJR-07", "patwar_circle": "Tijara", "tehsil": "Tijara",
+     "villages": [{"name": "Tijara", "name_hi": "तिजारा", "lat": 27.930, "lon": 76.856},
+                  {"name": "Tapukara", "name_hi": "टपूकड़ा", "lat": 28.060, "lon": 76.800}]},
+    {"iu_code": "ALW-KTM-08", "patwar_circle": "Kathumar", "tehsil": "Kathumar",
+     "villages": [{"name": "Kathumar", "name_hi": "कठूमर", "lat": 27.300, "lon": 77.020},
+                  {"name": "Kherli", "name_hi": "खेड़ली", "lat": 27.210, "lon": 77.040}]}
+  ]
+}
